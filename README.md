@@ -1,3 +1,5 @@
-# mesh_data
+# Mesh Data
 
-optgeo - I am not sure, but is a good representative example of parameterizations
+An organized collection of meshes used as a test bed for computer graphics research.
+
+Please see the subdirectory readmes for original citations if this data is used.
