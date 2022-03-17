@@ -4,6 +4,8 @@ import sys
 import os
 from glob import glob
 
+# Creates a txt of full-path file names
+
 # Print usage
 if len(sys.argv) < 2:
 	print("Generates a text file of absolute paths of directory contents")
